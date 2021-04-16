@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: catalog-dependent-service-b
+  description: Fake dependent service
+spec:
+  type: service
+  system: artist-engagement-portal
