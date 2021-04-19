@@ -8,3 +8,5 @@ spec:
   type: service
   lifecycle: production
   system: example
+  consumesApis:
+    - catalog-dependent-service-a
