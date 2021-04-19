@@ -4,5 +4,6 @@ metadata:
   name: catalog-dependent-service-b
   description: Fake dependent service
 spec:
+  owner: dx
   type: service
   system: artist-engagement-portal
