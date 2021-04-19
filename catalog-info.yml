@@ -6,4 +6,5 @@ metadata:
 spec:
   owner: dx
   type: service
+  lifecycle: production
   system: artist-engagement-portal
